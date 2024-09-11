@@ -8,6 +8,7 @@ function updatePublicDoc(html) {
 }
 
 const locals = {
+  lang: 'en',
   title: 'Hello, World',
   resume,
 };
